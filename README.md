@@ -9,10 +9,11 @@ Clone the repository:
 ```
 git clone https://github.com/GarrettOlitsky/coa-model.git
 cd coa-model
+```
 Create and activate a virtual environment:
-```
-```
+
 Copy code
+```
 python -m venv .venv
 ```
 # macOS / Linux
